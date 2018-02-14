@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2024
+VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotNetTips.CodePerf.Example.App", "dotNetTips.CodePerf.Example.App\dotNetTips.CodePerf.Example.App.csproj", "{4015F321-ED07-4268-8DE0-54CBC984262C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotNetTips.Utility.Standard", "..\..\dotNetTips.Utility\dotNetTips.Utility.Standard\dotNetTips.Utility.Standard.csproj", "{ECC3FC56-0636-4710-870D-CBFB6DFBA57B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotNetTips.Utility.Standard.Extensions", "..\..\dotNetTips.Utility\dotNetTips.Utility.Standard.Extensions\dotNetTips.Utility.Standard.Extensions.csproj", "{EBDC687C-A498-44E2-9DEF-20B21857CDF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotNetTips.CodePerf.Example.FrameworkApp", "dotNetTips.CodePerf.Example.FrameworkApp\dotNetTips.CodePerf.Example.FrameworkApp.csproj", "{6DC23124-34BF-4DC8-9203-55CDC715754E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{EBDC687C-A498-44E2-9DEF-20B21857CDF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBDC687C-A498-44E2-9DEF-20B21857CDF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBDC687C-A498-44E2-9DEF-20B21857CDF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DC23124-34BF-4DC8-9203-55CDC715754E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC23124-34BF-4DC8-9203-55CDC715754E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC23124-34BF-4DC8-9203-55CDC715754E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC23124-34BF-4DC8-9203-55CDC715754E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
